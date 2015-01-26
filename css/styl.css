@@ -1,0 +1,30 @@
+section {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+section p {
+  font-family: sans-serif;
+  font-size: 60px;
+  color: #354a5b;
+}
+section p input {
+  -moz-border-radius: 28px;
+  -webkit-border-radius: 28px;
+  border-radius: 28px;
+  background-color: #2600fa;
+  border: 1px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #fff;
+  font-family: Arial;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 23px 30px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+}
+section div img {
+  max-width: 200px;
+  max-height: 200px;
+}
